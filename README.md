@@ -1,8 +1,16 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a5/db/b4/a5dbb481cbbabce95f8ebe77e30078c1.gif" width="1000" height="200">
+</div>
+
 ## Hi there 👋  I'm Patorn ... (Patorino) 😁
 
 "I'm an Electronics Test Engineer who loves to tinker with code, build robots, and automate tasks. I enjoy diving into the details of low-level programming. Join me as I explore the fun side of electronics and programming!"
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e9/96/1b/e9961ba584fb8f4fe9283b75df51161a.gif" width="200">
+</div>
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/patorn-j/?fbclid=IwAR1073Rb2PjkIUUhEYfsjGdSngICl3acvhBjDE4Q0Zq70JEIQZPOEaXLDxU"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patorn-j" height="30" width="40" /></a>
 
